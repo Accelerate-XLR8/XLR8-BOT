@@ -1,6 +1,10 @@
-# Cbn-bot
+# Cbn-bot (work in progress)
 
-THE CBN bot
+An advanced bot as never seen before
+
+THE CBN bot 
+
+
 Welcome to the CBN trading bot! It is a local limit trading bot intended for use with uniswap/pancakeswap and other Dencentralised exchanges if their contracts are similar by switching out the contract address in processor.js
 
 You MUST hold in your wallet at least 50 CBN Token to use!
