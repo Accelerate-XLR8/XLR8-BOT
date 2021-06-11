@@ -7,7 +7,7 @@ THE CBN bot
 
 Welcome to the CBN trading bot! It is a local limit trading bot intended for use with uniswap/pancakeswap and other Dencentralised exchanges if their contracts are similar by switching out the contract address in processor.js
 
-You MUST hold in your wallet at least 50 CBN Token to use!
+You MUST hold in your wallet at least 4500 CBN Token to use!
 Pricing tiers/limits are as follows:
 
 0.4 LP
@@ -20,7 +20,7 @@ Pricing tiers/limits are as follows:
 -- unlimited scans
 
 CBN -
-CBN Token Address - 0x4a7adcb083fe5e3d6b58edc3d260e2e61668e7a2 LP Token Address - 0x4f839e991bb8c66b7066e2d4d753f47613f4d558
+CBN Token Address - "....….................................." LP Token Address - ".....…..............................."
 
 1. wallet-keys.js - add your private key and wallet address. Note that ONLY buysell.js uses these keys for the standard uniswap contracts and token spending approval.
 
