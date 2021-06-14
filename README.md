@@ -4,20 +4,11 @@ An advanced bot as never seen before
 
 THE CBN bot 
 
-
 Welcome to the CBN trading bot! It is a local limit trading bot intended for use with uniswap/pancakeswap and other Dencentralised exchanges if their contracts are similar by switching out the contract address in processor.js
 
 You MUST hold in your wallet at least 4500 CBN Token to use!
 Pricing tiers/limits are as follows:
 
-0.4 LP
--- 2 max tokens simultaneously -- Buy & sell limit prices buyLimitPrice and sellLimitPrice -- Stop losses using stopLossPrice -- Moonbag (keep %) - moonbagToKeep -- Never Sell X Tokens - neverSellXTokens -- Max Gas Per Token - maxGasPriceGwei -- Slippage Settings in BIPS - slippageTolerance -- Average scans together - averageXScans -- Don't Buy/Sell Until Full Scans - dontBuySellUntilFullScans -- Support Fee On Transfer of Tokens (burn etc) - supportFeeOnTransferTokens -- Keep Trying TXs if they fail - keepTryingTXifFail -- Token Pre Approvals - needTokenApproval
-
-1.5 LP
--- 10 max tokens simultaneously -- ERC20 to ERC20 trading - inputTokenAddress -- Trailing stop and trailing buy features - trailingBuyPct and trailingSellPct -- Maximum Price Impact - maxPriceImpact
-
-3.0 LP
--- unlimited scans
 
 CBN -
 CBN Token Address - "....….................................." LP Token Address - ".....…..............................."
