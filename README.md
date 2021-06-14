@@ -18,7 +18,7 @@ CBN Token Address - "....….................................." LP Token Address
 
 1. wallet-keys.js - add your private key and wallet address. Note that ONLY buysell.js uses these keys for the standard uniswap contracts and token spending approval.
 
-2. setup.js - get an Infura and/or Alchemy API key. Get an infura API key from: https://infura.io/ - Use just project ID and not full links for API keys.
+2. .env - get an Infura and/or Alchemy API key. Get an infura API key from: https://infura.io/ - Use just project ID and not full links for API keys.
 3. index.js - add tokens you want to scan here. Make sure your wallet is either already approved to spend on uniswap, or you turn variable needTokenApproval to true. Make sure to turn it to false after allowing one round of approval or else the script will approve each time. If uniswap router cannot spend your tokens, you will fail tx when trying to sell!
 
 4. Install Node.JS for your OS: https://nodejs.org/en/download/ For Windows users, you may find it most convenient to just download the correct version right away: 14.15.1 - https://nodejs.org/dist/v14.15.1/node-v14.15.1-x64.msi
