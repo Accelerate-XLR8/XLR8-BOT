@@ -10,7 +10,13 @@ Blockchain based
 Welcome to the CBN trading bot! It is a local limit trading bot intended for use with uniswap/pancakeswap and other Dencentralised exchanges if their contracts are similar by switching out the contract address in processor.js
 
 You MUST hold in your wallet at least 4500 CBN Token to use!
-Pricing tiers/limits are as follows:
+ 
+Steps to use:
+1. Download node.js here (https://nodejs.org/en/download/)
+
+2. Download visual studio code for your O.S here (https://code.visualstudio.com/Download)
+
+3. Clone the CBN source code into your visual studio code using this link (https://github.com/Ocatom-dev/Cbn-bot/)
 
 
 CBN -
