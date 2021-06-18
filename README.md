@@ -15,6 +15,7 @@ Steps to use:
 1. Download node.js here (https://nodejs.org/en/download/)
 
 2. Download visual studio code for your O.S here (https://code.visualstudio.com/Download)
+3. Download the git scm package for your O.S here (https://git-scm.com/downloads)
 
 3. Clone the CBN source code into your visual studio code using this link (https://github.com/Ocatom-dev/Cbn-bot/)
 
