@@ -4,7 +4,7 @@ An advanced bot as never seen before
 
 THE CBN bot 
 How bot works?
-Node.js App
+Node.js App and
 Blockchain based
 
 Welcome to the CBN trading bot! It is a local limit trading bot intended for use with uniswap/pancakeswap and other Dencentralised exchanges if their contracts are similar by switching out the contract address in index.js
