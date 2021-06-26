@@ -111,5 +111,5 @@ async function monitorPrice() {
 }
 
 // Check markets every n seconds
-const POLLING_INTERVAL = process.env.POLLING_INTERVAL || 1000 // 1 Second
+const POLLING_INTERVAL = process.env.POLLING_INTERVAL || 5000 // 5 Second
 priceMonitor = setInterval(async () => { await monitorPrice() }, POLLING_INTERVAL)
