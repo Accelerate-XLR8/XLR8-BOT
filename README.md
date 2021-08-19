@@ -9,7 +9,7 @@ Blockchain based
 
 Welcome to the xlr8 trading bot! It is a local limit trading bot intended for use with uniswap/pancakeswap and other Dencentralised exchanges if their contracts are similar by switching out the contract address in index.js
 
-You MUST hold in your wallet at least 4500 CBN Token to use!
+You MUST hold in your wallet at least 30,000 xlr8 Tokens to use!
  
 Steps to use:
 1. Download node.js here (https://nodejs.org/en/download/)
