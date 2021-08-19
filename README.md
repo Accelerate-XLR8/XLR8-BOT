@@ -20,7 +20,7 @@ Steps to use:
 
 4. Search for "Git Cmd" on your computer and open it up
 
-5. Clone the CBN source code into your Git Command Prompt (Git CMD) by typing "git clone https://github.com/Ocatom-dev/Cbn-bot/" and the "Enter" key and wait for it to finish downloading
+5. Clone the CBN source code into your Git Command Prompt (Git CMD) by typing "git clone https://github.com/Accelerate-XLR8/xlr8-bot.git" and the "Enter" key and wait for it to finish downloading
 
 6. Navigate to your bot by typing "cd - cbn-bot" and then the "Enter" key
 
@@ -34,10 +34,7 @@ Steps to use:
 
 11. To terminate use "Ctrl + C"
 
-
-
-CBN -
-CBN Token Address - "0x080CAA2aca4a603F6A7a10C8Ea6041902f5B6b7d" LP Token Address - ".....…..............................."
+NOTE
 
 1. .env - add your private key and wallet address and your
 2. .env - get an Infura and/or Alchemy API key. Get an infura API key from: https://infura.io/ - Use just project ID and not full links for API  .
