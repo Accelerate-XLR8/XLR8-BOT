@@ -1,13 +1,13 @@
-# Cbn-bot 
+# xlr8-bot 
 
 An advanced bot as never seen before
 
-THE CBN bot 
+THE xlr8 bot 
 How bot works?
 Node.js App and
 Blockchain based
 
-Welcome to the CBN trading bot! It is a local limit trading bot intended for use with uniswap/pancakeswap and other Dencentralised exchanges if their contracts are similar by switching out the contract address in index.js
+Welcome to the xlr8 trading bot! It is a local limit trading bot intended for use with uniswap/pancakeswap and other Dencentralised exchanges if their contracts are similar by switching out the contract address in index.js
 
 You MUST hold in your wallet at least 4500 CBN Token to use!
  
