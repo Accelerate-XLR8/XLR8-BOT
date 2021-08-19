@@ -1,7 +1,7 @@
 {
-  "name": "cbn-bot",
+  "name": "xlr8-bot",
   "version": "0.3.0",
-  "description": "The CryptoBase Network Trading Bot",
+  "description": "The Accelerate official trading bot",
   "engines": {
     "node": "10.x"
   },
