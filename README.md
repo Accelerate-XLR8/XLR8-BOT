@@ -13,27 +13,27 @@ And to start script/bot run:
 
 ## Steps to Use:
 
-1. Download node.js here (https://nodejs.org/en/download/)
+- 1. Download node.js here (https://nodejs.org/en/download/)
 
-2. Download the git scm package for your O.S here (https://git-scm.com/downloads)
+- 2. Download the git scm package for your O.S here (https://git-scm.com/downloads)
 
-3. Download Sublime text editor (or any preferred editor) for your O.S here (https://www.sublimetext.com/download)
+- 3. Download Sublime text editor (or any preferred editor) for your O.S here (https://www.sublimetext.com/download)
 
-4. Search for "Git Cmd" on your computer and open it up
+- 4. Search for "Git Cmd" on your computer and open it up
 
-5. Clone the CBN source code into your Git Command Prompt (Git CMD) by typing "git clone https://github.com/Accelerate-XLR8/xlr8-bot.git" and the "Enter" key and wait till download is complete
+- 5. Clone the CBN source code into your Git Command Prompt (Git CMD) by typing "git clone https://github.com/Accelerate-XLR8/xlr8-bot.git" and the "Enter" key and wait till download is complete
 
-6. Navigate to your bot by typing "cd  xlr8-bot" and then the "Enter" key
+- 6. Navigate to your bot by typing "cd  xlr8-bot" and then the "Enter" key
 
-7. Type "npm install" and wait for your node package to fully install
+- 7. Type "npm install" and wait for your node package to fully install
 
-8. Open up your sublime text editor and from your editor navigate to your XLR8-bot file on your computer
+- 8. Open up your sublime text editor and from your editor navigate to your XLR8-bot file on your computer
 
-9. In your .env file add your private key, account address and your Alchemy API key. Get an infura API key from: https://infura.io/ - Use full links for API  .
+- 9. In your .env file add your private key, account address and your Alchemy API key. Get an infura API key from: https://infura.io/ - Use full links for API  .
 
-10. To start running your bot, go back to your git cmd app and type "node start.js" then Enter key
+- 10. To start running your bot, go back to your git cmd app and type "node start.js" then Enter key
 
-11. To terminate use "Ctrl + C"
+- 11. To terminate use "Ctrl + C"
 
 
 In config.txt file edit:
